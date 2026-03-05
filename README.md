@@ -44,8 +44,13 @@
 ---
 
 ### 📫 Как со мной связаться
+
 <div align="center">
-  <a href="http://t.me/m1sstak3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:m1sstak322@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://kwork.ru/user/m1sstak3"><img src="https://img.shields.io/badge/Kwork-1F845A?style=for-the-badge&logo=freelancer&logoColor=white" alt="Kwork"/></a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/m1sstak3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m1sstak322@gmail.com)
+[![Kwork](https://img.shields.io/badge/Kwork-1F845A?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/m1sstak3)
+
+**Email для связи:** `m1sstak322@gmail.com`
+
 </div>
