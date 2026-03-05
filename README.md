@@ -46,7 +46,8 @@ I work on web applications, mobile apps and MVP prototypes, combining developmen
 ## 📫 Contact
 
 GitHub
-https://github.com/yourusername
+https://github.com/m1sstak3
 
 Email
-[your@email.com](mailto:your@email.com)
+m1sstak322@gmail.com
+
