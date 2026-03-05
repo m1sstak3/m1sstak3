@@ -10,17 +10,28 @@
 Разработчик, сфокусированный на превращении идей в работающие продукты. Я создаю веб-приложения, мобильные приложения и MVP-прототипы, объединяя разработку с чистым дизайном интерфейсов и структурированной архитектурой.
 
 **🚀 Мой фокус:**
-`Web приложения` • `Mobile приложения` • `Разработка MVP` • `UI / UX интерфейсы` • `Прототипы продуктов`
+`Web приложения` • `Mobile приложения` • `Разработка MVP` • `UI / UX интерфейсы` • `Backend & Telegram Bots`
 
 ---
 
 ### 🛠 Технологии и Инструменты
 
-**💻 Разработка & Дизайн**
+**💻 Frontend, Mobile & UI/UX**
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,figma&theme=dark" alt="Skills" />
 </a>
+
+<br/>
+
+**⚙️ Backend & Architecture**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br/>
 
 **🤖 ИИ-Ассистенты и Инструменты**
 <br/>
@@ -36,7 +47,7 @@
 
 - 💡 **Анализ и Архитектура:** Проектирую логику продукта так, чтобы он легко масштабировался в будущем.
 - 🎨 **UI/UX Дизайн:** Создаю удобные и современные интерфейсы в Figma.
-- 💻 **Разработка:** Пишу чистый код на современном стеке (React / React Native / Node.js).
+- 💻 **Разработка:** Пишу чистый код на современном стеке (React / Node.js / Python).
 - 🚀 **Запуск:** Довожу прототип до рабочего состояния и помогаю с релизом.
 
 > *Ищете разработчика для вашего следующего проекта? Я открыт к сотрудничеству!*
