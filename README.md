@@ -26,7 +26,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Claude_Code-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_Pro-1E90FF?style=for-the-badge&logo=googlebard&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB_Stitch-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Stitch-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ---
 
