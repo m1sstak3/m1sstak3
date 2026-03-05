@@ -30,11 +30,16 @@
 
 ---
 
-### 📊 Моя активность на GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1sstak3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="m1sstak3 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1sstak3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### ⚙️ Как я создаю проекты (От идеи до MVP)
+
+Я помогаю стартапам и бизнесу быстро запускать продукты, закрывая весь цикл разработки:
+
+- 💡 **Анализ и Архитектура:** Проектирую логику продукта так, чтобы он легко масштабировался в будущем.
+- 🎨 **UI/UX Дизайн:** Создаю удобные и современные интерфейсы в Figma.
+- 💻 **Разработка:** Пишу чистый код на современном стеке (React / React Native / Node.js).
+- 🚀 **Запуск:** Довожу прототип до рабочего состояния и помогаю с релизом.
+
+> *Ищете разработчика для вашего следующего проекта? Я открыт к сотрудничеству!*
 
 ---
 
