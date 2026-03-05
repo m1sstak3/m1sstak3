@@ -40,7 +40,7 @@ I work on web applications, mobile apps and MVP prototypes, combining developmen
 
 * Claude Code
 * Gemini Pro
-
+* Stitch
 ---
 
 ## 📫 Contact
